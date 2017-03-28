@@ -7,7 +7,7 @@ def main():
 
     while True:
         user_interface.display_menu_option()
-        value_enter = input_validation.validata_user_input()
+        value_enter = input_validation.validata_user_input_choice()
         if value_enter == 1:
             process_data.rape_violent_homicide_robbeies_percapita_from_1975_to_2015()
             continue

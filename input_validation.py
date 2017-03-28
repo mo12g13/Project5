@@ -1,5 +1,5 @@
 
-def validata_user_input():
+def validata_user_input_choice():
 
     while True:
         try:
