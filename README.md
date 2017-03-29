@@ -11,5 +11,7 @@
 ![figure_1_all_crimes](https://cloud.githubusercontent.com/assets/17325437/24433516/e92df828-13ee-11e7-8d78-cef504a79b4e.png)
 
 
+### Rape and Violent crimes visualization from 2012-2015
+![figure_1_2012-2015](https://cloud.githubusercontent.com/assets/17325437/24434190/abf699f6-13f3-11e7-82bc-443b3086d00a.png)
 
 
