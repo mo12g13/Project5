@@ -14,4 +14,5 @@
 ### Rape and Violent crimes visualization from 2012-2015
 ![figure_1_2012-2015](https://cloud.githubusercontent.com/assets/17325437/24434360/aac14940-13f4-11e7-8d86-2e8700d437fe.png)
 
-
+### Rape crime per capita from 1975-2015 Visualization
+![figure_1_rape_from 1975-2015](https://cloud.githubusercontent.com/assets/17325437/24434520/ac105dee-13f5-11e7-9cbd-efeaf7176251.png
