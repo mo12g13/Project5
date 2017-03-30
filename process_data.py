@@ -67,6 +67,7 @@ def violent_crime_per_capita_from_2012_to_2015():
 def assault_crime_per_capita_from_1975_2015():
     data_of_assault_per_capita = crime_data.ix[:, ['assaults_percapita', 'report_year']]
     sns.distplot(data_of_assault_per_capita.assaults_percapita.dropna(), fit=norm, kde=False, color='r', bins=25)
+    plt.title("Assault Crime per capita from 1975-2015")
     plt.show()
 
 # Average rape crime per capita from 1975 - 2015
@@ -88,9 +89,5 @@ def average_assault_crime_from_1975_2015():
     plt.ylabel('Average number of crime from 1975-2015')
     plt.title('Average assault crime from 1975-2015')
     plt.show()
-
-
-if __name__=="__main__":
-  average_assault_crime_from_1975_2015()
 
 
